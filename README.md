@@ -1,2 +1,0 @@
-# machine-coding-round-questions
- 
