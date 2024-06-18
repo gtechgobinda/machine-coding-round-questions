@@ -1,10 +1,9 @@
 import React from "react";
-import Pagination from "../components/pagination";
+import Products from "../components/products";
 const Home = () => {
   return (
     <>
-      {/* <p>Hello</p> */}
-      <Pagination />
+    <Products/>
     </>
   );
 };
